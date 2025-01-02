@@ -1,4 +1,4 @@
-# Data-Cleaning-using-SQL
+# Data-Cleaning-Exploring-using-SQL
 
 
 1)Removing Duplicates
@@ -9,5 +9,6 @@
 
 3)Dealing with Null values or Blank Vlaues
 
-
 4)Remove unecessary coulmns
+
+5) Data exploration
